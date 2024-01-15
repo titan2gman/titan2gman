@@ -1,7 +1,7 @@
 
 ![ruby-rails-development](https://github.com/titan2gman/titan2gman/assets/117823244/fda23191-87fc-4db8-87eb-8a714401fb42)
 
-## Hightlights
+## Highlights
 
 |  Program Languages   | Frameworks & Libraries   |  Full-Stack   | Databases   | Other   |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
